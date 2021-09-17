@@ -58,5 +58,5 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 - https://github.com/taoxugit/AttnGAN
 
 **final image**
-![image]https://github.com/bohan66/GRAGAN/blob/master/final%20image1.jpg
-![image]https://github.com/bohan66/GRAGAN/blob/master/final%20image2.jpg
+![image] https://github.com/bohan66/GRAGAN/blob/master/final%20image1.jpg
+![image] https://github.com/bohan66/GRAGAN/blob/master/final%20image2.jpg
